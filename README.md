@@ -6,7 +6,7 @@ Each article corresponds to a tag in the repository with the same date.
 
 ## Usage
 
-Cargo is your friend, and should work as usual to build, test and run the code.
+Cargo is your friend, and should work as usual to build, test and run the code. (At the moment, the main executable does nothing.)
 
 ### Benchmarks
 
